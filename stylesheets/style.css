@@ -1,0 +1,55 @@
+html {
+    background-color: #FFC0CB;
+    font-family: "Karma", sans-serif;
+    margin: 5%;
+}
+
+h1 {
+    font-size: 60px; 
+    text-align: center;
+    color: #2f243c;
+}
+img{
+    display: block;
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.75px
+}
+
+.list {
+    margin-left: 5px;
+    padding: 10px;
+}
+
+.img_left {
+    width: 20%;
+    height: auto;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.img_right {
+    width: 20%;
+    height: auto;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.nav1 {
+    color: #af00a4
+}
+
+.nav2 {
+    color: #0a05a7
+}
